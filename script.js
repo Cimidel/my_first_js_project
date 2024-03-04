@@ -31,3 +31,9 @@ let numberA = 5;
 let numberB = 10;
 let multiplyResult = numberA * numberB;
 console.log(`${numberA} inmultit cu ${numberB} da ${multiplyResult}`);
+
+// Impartire
+let numberC = 25;
+let numberD = 10;
+let divisionResult = numberC / numberD;
+console.log(`${numberC} impartit la ${numberD} rezulta ${divisionResult}`);
