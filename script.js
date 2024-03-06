@@ -88,3 +88,25 @@ let remainder = checkedNumber % 2;
 
 let isEven = remainder === 0;
 console.log(`Number ${checkedNumber} is even: ${isEven}`);
+
+// Date booleene (true/false)
+
+let isAdult = true;
+console.log(`isAdult = ${isAdult}`);
+let isOld = false;
+console.log(`isOld = ${isOld}`);
+
+// date null sau undefined
+let nullValue = null;
+console.log(`nullValue = ${nullValue}`);
+
+let notInitialized;
+console.log(`notInitialized = ${notInitialized}`);
+
+
+// adaugare +1 la un numar (incrementare)
+let x = 10;
+console.log('x=', x);
+
+x++;
+console.log('x=', x);
